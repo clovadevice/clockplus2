@@ -1,0 +1,7 @@
+
+menu "MARKT factory info support"
+config MARKT_FACTORY_INFO
+	bool  "Select use markt factory info"
+	default n
+endmenu
+
